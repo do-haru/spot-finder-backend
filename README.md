@@ -9,13 +9,22 @@
 
 ## 실행 방법
 
+1. 저장소 클론
 ```bash
 git clone https://github.com/do-haru/spot-finder-backend.git
+```
+
+2. 프로젝트 디렉토리 이동
+```bash
 cd spot-finder-backend
+```
+
+3. 개발 서버 실행
+```bash
 ./gradlew bootRun
 ```
 
-서버 실행 후 브라우저에서 접속
+4. 서버 접속
 
 ```
 http://localhost:8080
